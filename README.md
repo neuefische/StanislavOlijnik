@@ -1,6 +1,8 @@
 #Hello  welcome to my profile 
 My name is Stanislav
 I am 28 years old
-I'm currently learning to program
+Im livi
+I'm currently learning to program.
+
 
 
