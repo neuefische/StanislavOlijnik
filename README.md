@@ -9,7 +9,9 @@ live in Cologne
 play chess
 doing sports 
 
-### Currently learning to program.
+### Currently learning 
+
+to program.
 
 
 
